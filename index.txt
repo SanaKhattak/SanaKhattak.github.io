@@ -388,7 +388,7 @@ experience as well as my academic training in a rewarding career
 <section   class="project"  id="project">
 <h2>Project Progress Report</h2>
    <ul>
-   <li> <p>My Project one was about writing a review paper I chose the Topic "Smart Cities ,IoT and Cloud Computing" ,to write the best research paper we studied more than 20 research papers,we created an online excel worksheet to work in collaboration with my group memember I wrote the abstraction,applications, conclusion section and refrences section . we used to have weekliy meeetings with our Teacher to update him about our work.</p></li>
+   <li> <p>My Project one was about writing a review paper I chose the Topic "Smart Cities ,IoT and Cloud Computing" ,to write the best research paper we studied more than 20 research papers,we created an online excel worksheet to work in collaboration with my group memember I wrote the abstraction,applications, conclusion and refrences section . we used to have weekly meeetings with our Teacher to update him about our work.</p></li>
   
    <li> <p>In Project Two I was asked to continue with Project one which was the review paper I Updated the abstraction ,added more applications and advantages and expanded the challanges section </p></li>
   
